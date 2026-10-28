@@ -1,0 +1,25 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# Packages that are downloaded separately
+Packages/*.tgz
+Packages/packages-lock.json
+
+# Vuforia license key lives in this file: never commit it
+Assets/Resources/VuforiaConfiguration.asset
+Assets/Resources/VuforiaConfiguration.asset.meta
+
+# Build outputs
+*.apk
+*.aab
+*.keystore
