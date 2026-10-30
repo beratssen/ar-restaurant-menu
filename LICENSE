@@ -19,21 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-Third-party content
-
-The MIT License above covers the original work in this repository: the C#
-scripts, scenes, UI images, and the photogrammetry 3D models and textures of
-the dishes. It does NOT cover the following third-party content, which remains
-under its own license:
-
-- Assets/TextMesh Pro/  TextMesh Pro essential resources by Unity Technologies,
-                        under the Unity Companion License.
-- Assets/Fonts/BrunoAce-Regular.*
-                        Bruno Ace font, under the SIL Open Font License 1.1.
-- Liberation Sans (in Assets/TextMesh Pro/Fonts/)
-                        under the SIL Open Font License 1.1
-                        (see "LiberationSans - OFL.txt").
-- Vuforia Engine        by PTC. Not included in this repository; it is subject
-                        to the Vuforia Developer Agreement.

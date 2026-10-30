@@ -83,4 +83,4 @@ docs/              README önizlemeleri
 ## Lisans
 
 Özgün kod, sahneler ve 3D modeller [MIT Lisansı](LICENSE) ile yayınlanmıştır.
-TextMesh Pro kaynakları, Bruno Ace ve Liberation Sans fontları ve Vuforia Engine kendi lisanslarına tabidir; ayrıntılar için [LICENSE](LICENSE) dosyasına bak.
+TextMesh Pro kaynakları, Bruno Ace ve Liberation Sans fontları ve Vuforia Engine kendi lisanslarına tabidir; ayrıntılar için [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) dosyasına bak.

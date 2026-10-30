@@ -83,4 +83,4 @@ docs/              README previews
 ## License
 
 The original code, scenes and 3D models are released under the [MIT License](LICENSE).
-TextMesh Pro resources, the Bruno Ace and Liberation Sans fonts, and Vuforia Engine keep their own licenses; see [LICENSE](LICENSE) for details.
+TextMesh Pro resources, the Bruno Ace and Liberation Sans fonts, and Vuforia Engine keep their own licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
