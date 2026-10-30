@@ -79,3 +79,8 @@ Packages/          paket manifesti
 ProjectSettings/   Unity proje ayarları
 docs/              README önizlemeleri
 ```
+
+## Lisans
+
+Özgün kod, sahneler ve 3D modeller [MIT Lisansı](LICENSE) ile yayınlanmıştır.
+TextMesh Pro kaynakları, Bruno Ace ve Liberation Sans fontları ve Vuforia Engine kendi lisanslarına tabidir; ayrıntılar için [LICENSE](LICENSE) dosyasına bak.
